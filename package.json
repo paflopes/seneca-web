@@ -58,6 +58,7 @@
     "norma": "0.3.0",
     "parambulator": "1.5.1",
     "rolling-stats": "0.1.1",
+    "seneca-amqp-transport": "^1.0.0",
     "serve-static": "1.10.2"
   },
   "devDependencies": {

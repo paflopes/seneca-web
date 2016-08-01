@@ -107,6 +107,7 @@ module.exports = function (options) {
 
   function add_action_patterns () {
     seneca
+      .use('seneca-amqp-transport')
 
     // Define a web service API.
       .add('role:web', web_use)
